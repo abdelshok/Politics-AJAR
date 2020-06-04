@@ -15,9 +15,9 @@ Online platform that leverages the ProPublica and Maplight APIs to analyze congr
   <img alt="politics" src="https://user-images.githubusercontent.com/20652426/83809142-fa63ea00-a683-11ea-86b5-7ad5ed13dad7.png"/>
 </div>
 
-<h5 marginTop="20px">
+<h3 marginTop="20px">
 These technologies were used:
-</h5>
+</h3>
 
 - [React](https://reactjs.org/)
 - [React-Redux](https://react-redux.js.org/)
