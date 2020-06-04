@@ -8,7 +8,7 @@ Online platform that leverages the ProPublica and Maplight APIs to analyze congr
 
 
 <div align="center">
-  <img alt="lmfaoGif" src="https://user-images.githubusercontent.com/20652426/83715824-4c612d00-a5fc-11ea-9a1e-0866ef263f26.gif"/>
+  <img alt="politics" src="https://user-images.githubusercontent.com/20652426/83809142-fa63ea00-a683-11ea-86b5-7ad5ed13dad7.png"/>
 </div>
 
 These technologies were used:
