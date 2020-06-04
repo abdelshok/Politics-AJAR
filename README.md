@@ -15,7 +15,9 @@ Online platform that leverages the ProPublica and Maplight APIs to analyze congr
   <img alt="politics" src="https://user-images.githubusercontent.com/20652426/83809142-fa63ea00-a683-11ea-86b5-7ad5ed13dad7.png"/>
 </div>
 
+<p>
 These technologies were used:
+</p>
 
 - [React](https://reactjs.org/)
 - [React-Redux](https://react-redux.js.org/)
@@ -30,7 +32,7 @@ These technologies were used:
 
 The application is not live anymore. It was created as the final project for [FullStack Academy](https://www.fullstackacademy.com/), the bootcamp that I attended before I was accepted into graduate school.
 
-It is now 2020 and judging by the current situation, it might be a good idea to pick up this project and really improve it.
+It is now 2020 and judging by the current political situation, it might be a good idea to pick up this project and really improve it.
 
 ## 🛠 Installation & Set Up
 
