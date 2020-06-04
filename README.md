@@ -1,10 +1,14 @@
-# Politics Ajar 
-
 <div align="center">
   <img alt="Logo" src="https://user-images.githubusercontent.com/20652426/83809124-f3d57280-a683-11ea-816f-13e1d51130a0.png" width="100" />
 </div>
 
+<h2 align="center">
+  Politics Ajar
+</h2>
+
+<p align="center">
 Online platform that leverages the ProPublica and Maplight APIs to analyze congress-people's voting history and the identity of the companies lobbying for the passage of individual bills to infer the stance of each congress person on a set of social issues, such as environmental conservation or foreign policy, in order to allow American voters to determine their ideal candidate.
+</p>
 
 
 <div align="center">
